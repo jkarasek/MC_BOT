@@ -1,6 +1,6 @@
 {
   "name": "Minecraft_Afk_Bot",
-  "version": "2.1",
+  "version": "2.1.0",
   "description": "Afk bot for minecraft servers.",
   "main": "index.js",
   "scripts": {
