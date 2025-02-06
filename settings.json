@@ -12,7 +12,7 @@
   },
   
   "position": {
-    "enabled": false,
+    "enabled": true,
     "x": 0,
     "y": 0,
     "z": 0
@@ -32,11 +32,12 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 60,
+      "repeat-delay": 600,
 
       "messages": [
-        " ",
-        " "
+        "Szopa umyj dupe",
+        "Andrzej kisi stopy",
+        "Kinga smierdzi"
       ]
     },
 
